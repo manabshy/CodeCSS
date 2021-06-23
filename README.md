@@ -1,6 +1,6 @@
 
 
-* Please refer to below layout and Adapt index.html to that layout.
+* Please refer to the below layout and Adapt index.html to that layout.
 * Make the layout Responsive across small, medium and large devices.
 * When you are happy with the changes, push your code to the github and share the url.
 
